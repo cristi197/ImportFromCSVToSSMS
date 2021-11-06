@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\bin\Debug\ExportFromCSVToSSMS.exe.config
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\bin\Debug\ExportFromCSVToSSMS.exe
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\bin\Debug\ExportFromCSVToSSMS.pdb
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\obj\Debug\ExportFromCSVToSSMS.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\obj\Debug\ExportFromCSVToSSMS.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\obj\Debug\ExportFromCSVToSSMS.exe
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\obj\Debug\ExportFromCSVToSSMS.pdb
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\bin\Debug\CsvReader.dll
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\bin\Debug\CsvReader.xml
+C:\Users\crist\source\repos\ExportFromCSVToSSMS\ExportFromCSVToSSMS\obj\Debug\ExportFromCSVToSSMS.csproj.CopyComplete
