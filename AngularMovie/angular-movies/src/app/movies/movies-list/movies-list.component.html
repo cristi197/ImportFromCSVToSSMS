@@ -1,17 +1,23 @@
 
 <app-generic-list [list]="movies">
     <ng-container content>
-        <div *ngFor="let movie of movies; let index = index" class="movie-container">
-            <div>
-               {{index}}) {{movie.title | lowercase}} 
-               <button style="margin-left: 1rem;" (click)="remove(index)">Remove</button>
+        <div class="movies-container">
+            <div *ngFor="let movie of movies; let index = index" class="movie-container">
+                <a>
+                    <img [src]="movie.poster" alt="Poster"/>
+                </a>
+                <p>
+                    <a>{{movie.title}}</a>
+                </p>
+                <div>
+                    <a mat-flat-button color="primary">
+                        Edit
+                    </a>
+                    <button mat-flat-button color="warn" type="button">
+                        Delete
+                    </button>
+                </div>
             </div>
-            <div>
-                {{movie.relesaseDate |date:"dd-MM-yyyy"}}
-            </div>
-            <div>
-                {{movie.price|currency:"EUR"}}
-            </div>
-        </div>
+        </div>        
     </ng-container>    
 </app-generic-list>
