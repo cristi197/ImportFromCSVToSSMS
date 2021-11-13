@@ -1,13 +1,18 @@
+<app-menu>
 
-<h2>
-    In theaters:
-</h2>
+</app-menu>
 
-<app-movies-list [movies]="moviesInTheaters"></app-movies-list>
-
-
-<h2>
-    Future releases:
-</h2>
-
-<app-movies-list [movies]="moviesFutureReleases"></app-movies-list>
+<div class="container">
+    <h2>
+        In theaters:
+    </h2>
+    
+    <app-movies-list [movies]="moviesInTheaters"></app-movies-list>
+    
+    
+    <h2>
+        Future releases:
+    </h2>
+    
+    <app-movies-list [movies]="moviesFutureReleases"></app-movies-list>
+</div>
