@@ -2,4 +2,5 @@
     Create genres
 </h2>
 
-<button mat-flat-button color="primary" type="button" (click)="saveChanges()">Save Changes</button>
+<app-form-genre (onSaveChanges)="saveChanges($event)"></app-form-genre>
+
