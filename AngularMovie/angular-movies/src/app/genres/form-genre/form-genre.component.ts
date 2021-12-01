@@ -29,7 +29,7 @@ export class FormGenreComponent implements OnInit {
     }); // cream obiectul cu toate field-urile pe care ni le dorim in form
 
     if(this.model !== undefined){
-      this.form.patchValue(this.model);
+      this.form.patchValue(this.model); // insereaza valoarea catre obiectul model
     }
   }
 
